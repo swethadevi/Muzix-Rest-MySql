@@ -3,7 +3,7 @@
 ### Spring Boot  REST Api using the Java, Spring Boot, MySql DB, Maven and postman 
 
 * Built Using
-              * [Java] - The initial Language building block used
+              * [Java] - The Programming Language used
 	      * [Spring-Boot] - The web framework used
 	      * [MySQL] - The database framework used
               * [Maven] - Dependency Management 
